@@ -32,21 +32,5 @@ Step 3. Start the application
 Run this command in the terminal: python main.py
 The app window will open and you can start encrypting!
 
-📁 Project Structure:
-
-Hybrid-Encryption-System/
-├── main.py               ← The main file to run the application
-├── requirements.txt      ← Libraries needed for the application
-├── README.md             ← This file
-├── .gitignore            ← Files to be ignored by Git
-└── src/
-    ├── gui.py
-    ├── auth.py
-    ├── text_encryption.py
-    ├── image_encryption.py
-    ├── audio_encryption.py
-    ├── video_encryption.py
-    └── utils.py
-
 📌 Note: 
 This app works offline and keeps all your encrypted files safe on your computer.
