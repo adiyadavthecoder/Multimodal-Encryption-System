@@ -1,0 +1,6 @@
+PyQt5
+pycryptodome
+opencv-python
+numpy
+librosa
+soundfile
